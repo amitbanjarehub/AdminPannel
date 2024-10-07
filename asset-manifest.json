@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AdminPannel/static/css/main.a1c6d2d3.css",
+    "main.js": "/AdminPannel/static/js/main.430c5fe3.js",
+    "static/media/woman1.jpg": "/AdminPannel/static/media/woman1.747e91d1b6e7f48a883c.jpg",
+    "static/media/book1.jpg": "/AdminPannel/static/media/book1.b1d6f0e30afe908d9f89.jpg",
+    "static/media/woman2.jpg": "/AdminPannel/static/media/woman2.dc168b1952cddcb22a1e.jpg",
+    "static/media/man3.jpg": "/AdminPannel/static/media/man3.979dda0cdfd716605b21.jpg",
+    "static/media/blog4.jpg": "/AdminPannel/static/media/blog4.02a4cdd9cb63a3736be7.jpg",
+    "static/media/blog2.jpg": "/AdminPannel/static/media/blog2.47735235240509f758d4.jpg",
+    "static/media/book5.jpg": "/AdminPannel/static/media/book5.582e0eaad3f18e1a0d94.jpg",
+    "static/media/book4.jpg": "/AdminPannel/static/media/book4.a2085d367b7511a86af5.jpg",
+    "static/media/book2.jpg": "/AdminPannel/static/media/book2.067c7a1aa44090213a5b.jpg",
+    "static/media/blog1.jpg": "/AdminPannel/static/media/blog1.04e22a5c0c971b1259ba.jpg",
+    "static/media/man1.jpg": "/AdminPannel/static/media/man1.267402bfb200ca495c26.jpg",
+    "static/media/admin_pic.jpg": "/AdminPannel/static/media/admin_pic.9aa809c2866b44dcb9b5.jpg",
+    "static/media/man4.jpg": "/AdminPannel/static/media/man4.d01bc52645b3e398f9a8.jpg",
+    "static/media/blog3.jpg": "/AdminPannel/static/media/blog3.05e71991812db954418e.jpg",
+    "static/media/book3.jpg": "/AdminPannel/static/media/book3.426b8437f97912932077.jpg",
+    "static/media/man2.jpg": "/AdminPannel/static/media/man2.7c05bd1d6279fe6fabef.jpg",
+    "static/media/photo-camera.png": "/AdminPannel/static/media/photo-camera.ad227a6cc4f10f5c5d5d.png",
+    "index.html": "/AdminPannel/index.html",
+    "main.a1c6d2d3.css.map": "/AdminPannel/static/css/main.a1c6d2d3.css.map",
+    "main.430c5fe3.js.map": "/AdminPannel/static/js/main.430c5fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1c6d2d3.css",
+    "static/js/main.430c5fe3.js"
+  ]
+}
